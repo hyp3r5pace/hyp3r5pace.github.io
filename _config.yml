@@ -7,13 +7,13 @@ kramdown:
 gems:
   - jekyll-sitemap
 permalink: blogs/:title/
-title: Dhaval Kapil
-email: me@dhavalkapil.com
-description: Website of Dhaval Kapil, graduate student at Georgia Tech
-keywords: dhaval, kapil, vampire, gatech, iit, roorkee, sdslabs, security, developer, geek, programmer, pianist, github
+title: Soumyajit Deb
+email: debsoumyajit100@gmail.com
+description: Website of Soumyajit Deb
+keywords: Soumyajit Deb, hyp3r5pace, security, developer, geek, programmer, runner, github
 baseurl: ""
-url: https://dhavalkapil.com
-name: Dhaval Kapil\'s blog
+url: 
+name: Soumyaji Deb\'s blog
 author:
-  name: Dhaval Kapil
-  email: me@dhavalkapil.com
+  name: Soumyajit Deb
+  email: debsoumyajit100@gmail.com
